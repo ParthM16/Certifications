@@ -1,2 +1,2 @@
 # Certifications
-List if Certification
+List of Certification
