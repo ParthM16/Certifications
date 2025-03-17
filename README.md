@@ -4,9 +4,8 @@
 
 <h3>Google Data Analytics Professional Certificate</h3>
 
-
-<img src="https://github.com/user-attachments/assets/6afec203-855f-4dc2-9bce-4e889583f325" width=75%/></br>
-Completed 7/8 courses as of March 14, 2025, aiming to finish all by March 17th, 2025
+## [View Certificate](https://coursera.org/share/3bdb12991b58035ea4261346bc944a06)
+<img src="https://github.com/user-attachments/assets/ba374a83-78ff-4785-a2ad-e13a54fe2103" width=75%/></br>
 </br>
 </br>
 </br>
