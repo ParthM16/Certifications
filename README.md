@@ -38,3 +38,14 @@
 <img src="https://github.com/user-attachments/assets/ddae6e82-1cf5-4cc3-b493-9c24835de1d4" width=75% height="75%" />
 
 
+</br>
+</br>
+</br>
+
+<h3>HackerRank SQL (Intermediate)</h3>
+
+## [View Certificate](https://www.hackerrank.com/certificates/64043e149a7a)
+
+<img src="https://github.com/user-attachments/assets/73825f16-ee53-40d6-81f0-d031955e5145" width=75% height="75%" />
+
+
