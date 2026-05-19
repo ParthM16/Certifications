@@ -1,3 +1,4 @@
+
 <h1>Certifications</h1>
 </br>
 </br>
@@ -25,7 +26,7 @@
 
 ## [View Certificate](https://www.linkedin.com/learning/certificates/223dbbc4b8acb00d335ad6f8951ab0ff498e834cc0c6c4ae74a5508fa1a1b54d)
 
-<img src="https://media.licdn.com/dms/image/v2/D4E22AQEsm9flW9dTXA/feedshare-shrink_1280/B4EZaDN2aaHMAk-/0/1745958168569?e=1756339200&v=beta&t=J_Y_pgVD2f5-G55JgtOEU6W7z91wJeCnbhImX_-wwa4" width=75% height="75%" />
+<img src="https://github.com/user-attachments/assets/5cc16f83-2d8b-4dd7-b42d-7fd3c1841435" width=75% height="75%" />
 
 </br>
 </br>
