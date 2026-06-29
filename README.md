@@ -3,6 +3,14 @@
 </br>
 </br>
 
+<h3>Anthropic AI Fluency: Framework & Foundations Certificate</h3>
+
+## [View Certificate](https://verify.skilljar.com/c/78fifck9i46c)
+<img src="https://github.com/user-attachments/assets/2b4c13f3-69a9-4683-b926-7a5e5ebb1baf" width=75%/></br>
+</br>
+</br>
+</br>
+
 <h3>Google Data Analytics Professional Certificate</h3>
 
 ## [View Certificate](https://coursera.org/share/3bdb12991b58035ea4261346bc944a06)
